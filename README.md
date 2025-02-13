@@ -4,6 +4,10 @@ This repository is linked to [this youtube video](https://www.youtube.com/watch?
 
 •	Author: Seb Gates
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 ## Requirements
 •	PHP 7.3 or higher <br>
